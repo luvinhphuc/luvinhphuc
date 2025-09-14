@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Phuc <i>(You can call me Andy)</i></h3> <img align="right" height="200" src="https://media.tenor.com/bx7hbOEm4gMAAAAi/sakura-leaves.gif"  />
+<h3 align="left">My name is Phuc <i>(You can call me Andy)</i><img align="right" height="250" src="https://media.tenor.com/bx7hbOEm4gMAAAAi/sakura-leaves.gif"/></h3> 
 
 ###
 
