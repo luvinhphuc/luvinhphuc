@@ -45,3 +45,11 @@
   [![Spotify](https://spotify-now-playing-luvinhphuc.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/313jzhupegfrn4mxitcf4koe5uyy)
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/luvinhphuc/luvinhphuc/output/snake.svg" alt="Snake animation" />
+
+###
+
