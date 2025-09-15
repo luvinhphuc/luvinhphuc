@@ -47,9 +47,3 @@
 
 ###
 ---
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/luvinhphuc/luvinhphuc/output/snake.svg" alt="Snake animation" />
-
-###
----
