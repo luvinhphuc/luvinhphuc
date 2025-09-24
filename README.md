@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Python, Javascript, HTML/CSS<br>👨‍💻I'm a freshman at University of Greenwich Vietnam<br>📍 I'm living at Ho Chi Minh City, Vietnam</p>
+<p align="left">🌱 I’m currently learning Python, Javascript, HTML/CSS<br>👨‍💻I'm a freshman at University of Greenwich Vietnam<br>📍 I'm living in Ho Chi Minh City, Vietnam</p>
 
 ###
 
