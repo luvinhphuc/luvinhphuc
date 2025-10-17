@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Phuc <i>(You can call me Andy)</i> 
+<h3 align="left">My name is Phuc <i>(You can call me Andy)</i><img align="right" height="200" src="https://media.tenor.com/bx7hbOEm4gMAAAAi/sakura-leaves.gif"/></h3>
 
 ###
 
@@ -10,10 +10,9 @@
 
 ###
 
-<!-- <div align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luvinhphuc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="130" alt="stats graph"/>
-  <img align="right" height="200" src="https://media.tenor.com/bx7hbOEm4gMAAAAi/sakura-leaves.gif"/></h3>
-</div> -->
+</div>
 
 ###
 ---
