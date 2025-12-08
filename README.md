@@ -17,7 +17,7 @@
 
 ### -->
 ---
-<img align="right" height="300" src="https://i.imgflip.com/a5zsza.gif"  />
+<img align="right" height="400" width="800" src="https://i.imgflip.com/a5zsza.gif"  />
 
 ###
 
